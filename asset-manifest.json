@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/wallet-frontend/static/css/main.c3d5249d.css",
+    "main.js": "/wallet-frontend/static/js/main.fd6c7956.js",
+    "static/media/Circe-Bold.woff": "/wallet-frontend/static/media/Circe-Bold.fca9743700608e1abf6a.woff",
+    "static/media/Circe-Regular.woff": "/wallet-frontend/static/media/Circe-Regular.a5168fcec068fa77220a.woff",
+    "static/media/Circe-Bold.woff2": "/wallet-frontend/static/media/Circe-Bold.b64357adbf12b109fcf2.woff2",
+    "static/media/Circe-Regular.woff2": "/wallet-frontend/static/media/Circe-Regular.2c54c074533cf5620761.woff2",
+    "static/media/poppins-v20-latin-regular.woff": "/wallet-frontend/static/media/poppins-v20-latin-regular.f61407da33b59324fbef.woff",
+    "static/media/poppins-v20-latin-700.woff": "/wallet-frontend/static/media/poppins-v20-latin-700.c54a52658bf21b37083d.woff",
+    "static/media/poppins-v20-latin-regular.woff2": "/wallet-frontend/static/media/poppins-v20-latin-regular.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-v20-latin-700.woff2": "/wallet-frontend/static/media/poppins-v20-latin-700.d86662fe776dae29ea78.woff2",
+    "index.html": "/wallet-frontend/index.html",
+    "main.c3d5249d.css.map": "/wallet-frontend/static/css/main.c3d5249d.css.map",
+    "main.fd6c7956.js.map": "/wallet-frontend/static/js/main.fd6c7956.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.c3d5249d.css",
+    "static/js/main.fd6c7956.js"
   ]
 }
