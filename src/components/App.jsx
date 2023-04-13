@@ -1,16 +1,15 @@
+import { Toaster } from 'react-hot-toast';
+
+import FontStyles from 'globalStyles/fontStyles';
+import { GlobalStyle } from 'globalStyles/globalStyle';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <>
+      <h1>Wallet</h1>
+      <FontStyles />
+      <GlobalStyle />
+      <Toaster position="top-right" reverseOrder={false} />
+    </>
   );
 };
